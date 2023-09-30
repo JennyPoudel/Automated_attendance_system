@@ -25,9 +25,8 @@
   ![image](https://github.com/JennyPoudel/Automated_attendance_system/assets/84913910/47378097-93a1-411f-b517-653989311bc7)
   Registration
   ![image](https://github.com/JennyPoudel/Automated_attendance_system/assets/84913910/44eebefd-aba8-4c10-afb4-6d7548cc0cb6)
-  Take Attendance
+    Take Attendance
   ![image](https://github.com/JennyPoudel/Automated_attendance_system/assets/84913910/7a6a56a7-cf42-42ee-8fed-196def964de3)
-
     Output
   ![image](https://github.com/JennyPoudel/Automated_attendance_system/assets/84913910/b5f955f2-3175-4551-b3ce-2845dee92726)
 
