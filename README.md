@@ -20,12 +20,12 @@
 - You can view the attendance after clicking `View Attendance` button. It will show record in tabular format.
 
   ##Screenshots
-  #UI design
-  #HOMEPAGE
+  ##UI design
+  ##Homepage
   ![image](https://github.com/JennyPoudel/Automated_attendance_system/assets/84913910/47378097-93a1-411f-b517-653989311bc7)
-  #Registration
+  ##Registration
   ![image](https://github.com/JennyPoudel/Automated_attendance_system/assets/84913910/44eebefd-aba8-4c10-afb4-6d7548cc0cb6)
-  #Take Attendance
+  ##Take Attendance
   ![image](https://github.com/JennyPoudel/Automated_attendance_system/assets/84913910/7a6a56a7-cf42-42ee-8fed-196def964de3)
 
 
